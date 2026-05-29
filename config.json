@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routeruecrypt",
+        "uuid": 41522210,
+        "checksum": "7tlx5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
